@@ -269,7 +269,12 @@ b. 그렇다면, 취준생들이 필요로 하는 정보는 구체적으로 무�
 --- 
 
 ##  🎨 디자인 무드보드
-현재 무드보드 시안과 서비스 아이콘 시안 후보가 나왔음. 내부에서 논의를 통해 정할 예정.
+
+<img width="300" alt="img3" src="https://user-images.githubusercontent.com/86593582/195975595-4137923d-c9e5-43ea-a88a-4f5a52360cd8.png">
+
+<img width="296" alt="img4" src="https://user-images.githubusercontent.com/86593582/195975597-c6aaa057-a3e8-436c-b37e-f8524f28c89a.png">
+
+<img width="314" alt="img5" src="https://user-images.githubusercontent.com/86593582/195975601-4589e531-04e4-4a00-929b-f06916e875ec.png">
 
 ---
 ## 🧑🏻‍💻 기술 스택
